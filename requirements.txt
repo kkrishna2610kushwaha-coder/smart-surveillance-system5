@@ -1,0 +1,9 @@
+
+streamlit
+ultralytics
+opencv-python-headless
+numpy<2
+pandas
+Pillow
+lap
+
